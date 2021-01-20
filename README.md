@@ -1,6 +1,5 @@
 # smooth16x_MinecraftResourcePack
 Smooth 16x Minecraft Resource Pack
 
-For Minecraft versions 1.12.2 and below, but should work with above versions.
-
-I am working on updating it for 1.13+
+2 versions, one for 1.12.2 and below, and one for 1.13-1.16.
+I haven't added any 1.13+ blocks except for polished blackstone bricks yet, I am working on that.
