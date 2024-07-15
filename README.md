@@ -1,4 +1,7 @@
 # smooth16x_MinecraftResourcePack
+
+### [Working on a NEW version of this pack!!](https://github.com/anventia/SmoothSimplified-Resource-Pack)
+
 Smooth 16x16 Minecraft Resource Pack
 
 
